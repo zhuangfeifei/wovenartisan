@@ -23,7 +23,7 @@
     "jquery": "^3.4.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
-    "nuxt": "^2.4.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/axios": "^5.4.1",
